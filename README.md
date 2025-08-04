@@ -8,5 +8,5 @@ hazardemircan/hazardemircan is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazardemircan&show_icons=true&theme=synthwave)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazardemircan&show_icons=true&theme=synthwave&cache_seconds=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazardemircan&layout=compact&theme=synthwave)
